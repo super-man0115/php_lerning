@@ -1,2 +1,2 @@
 <?php
-echo 'hello wprld';
+echo "hello world!";
